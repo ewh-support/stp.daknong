@@ -1,0 +1,116 @@
+/**Thoi tiet**
+.dvnduyweather{
+	padding-left:5px;
+	padding-right:5px;
+}
+.ms-WPBorder{
+	border:0px;
+}
+.WeatherForecast div{
+	font-family:arial;
+	font-size:11px;
+}
+.WeatherForecast{
+	border:1px #83b0ec solid;
+}
+.wf-title{
+	background-color:#d6e8ff;
+	font-size:12px;
+	padding:7px 5px 6px 15px;
+	border:1px #fff solid;
+	font-weight:bold;
+	color:#003399;
+}
+.wf-selected-zone{
+	padding:10px 5px;
+}
+.wf-city{
+	float:left;
+	color:#3a6ba9;
+	font-weight:bold;
+}
+.wf-selected-zone div select{
+	font-family:arial;
+	font-size:11px;
+	color:#000;
+}
+.wf-img-today{
+	height:60px;
+	line-height:50px;
+	float:left;
+}
+.wfimgcurrent{
+	border:1px #e0e0e0 solid;
+	width:50px;
+	height:38px;
+}
+.wf-imformation-today{
+	
+}
+.groupnextday{
+	overflow:hidden;	
+	background:url("/web/20170704023913im_/http://stp.daknong.gov.vn/_LAYOUTS/LacVietBio/UserControls/WeatherForecast/images/w-bot-space.gif") repeat-x  left top;	
+}
+.wf-nextday{
+	clear:both;
+}
+.wf-nextday .wf-nd{
+	color:#cb0000;	
+	padding-bottom:8px;
+	text-align:center;		
+}
+
+.wf-nextday1{
+	float:left;
+	background:url("/web/20170704023913im_/http://stp.daknong.gov.vn/_LAYOUTS/LacVietBio/UserControls/WeatherForecast/images/w-cent-space.gif") repeat-y right bottom;
+	width:50%;
+}
+.wf-nextday1,.wf-nextday2{
+	padding-bottom:10px;
+	font-size:11px;
+	text-align:center;
+}
+.wf-1,.wf-7{
+	font-weight:bold;
+	color:#3a6ba9;
+	padding-top:8px;
+	padding-bottom:6px;	
+}
+
+.wf-2,.wf-8{
+	color:#5f5f5f;
+}
+.wf-4,.wf-10{
+	color:#000;
+	font-weight:normal;
+	padding-bottom:8px;
+	padding-top:8px;			
+}
+.wf-5,.wf-6,.wf-11,.wf-12{
+	color:#b30000;
+}
+.wf-5 b,.wf-6 b,.wf-11 b,.wf-12 b{
+	color:#3b3b3b;
+	padding-left:3px;
+}
+/*
+     FILE ARCHIVED ON 02:39:13 Jul 04, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:52:30 Apr 14, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 78.759 (3)
+  esindex: 0.007
+  captures_list: 98.285
+  CDXLines.iter: 14.085 (3)
+  PetaboxLoader3.datanode: 57.62 (5)
+  exclusion.robots: 0.144
+  exclusion.robots.policy: 0.133
+  RedisCDXSource: 1.702
+  PetaboxLoader3.resolve: 89.205 (4)
+  load_resource: 72.508
+*/
