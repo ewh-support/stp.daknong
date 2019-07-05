@@ -225,6 +225,7 @@ span#tP{
 .ms-search{
 	float:right;
 	padding:4px 5px 0px 0px;
+	
 }
 .ms-sbgo a{
 	background: url("../../../../../../20170704013423im_/http/stp.daknong.gov.vn/imgSoTTTT/button-search.png") no-repeat;
@@ -1066,10 +1067,10 @@ div#ppy1 .ppy-nav {
 	height:44px;
 }
 .hRight ul.classshow,.hRight ul.classhide{
-	background:#56a3d9 url("/web/20170704013423im_/http/stp.daknong.gov.vn/imgSonganh/gt-cent.png") repeat-y left bottom;
+	/* background:#56a3d9 url("/web/20170704013423im_/http/stp.daknong.gov.vn/imgSonganh/gt-cent.png") repeat-y left bottom; 
 	padding-left:12px;
 	padding-right:12px;
-
+*/
 }
 
 .zoneRight ul.classshow,.zoneRight ul.classhide{
